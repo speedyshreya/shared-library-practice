@@ -1,3 +1,3 @@
 def call(String name) {
-    echo "Hello, today is a thursday"
+    echo "Hello, ${name} ,today is a thursday"
 }
